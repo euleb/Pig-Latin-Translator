@@ -1,5 +1,5 @@
+# CMSC 254 Pig-latin Project
 import tkinter as tk
-
 def piglatin(): 
     original_sentence = entry1.get()
     original_sentence = str.lower(original_sentence)
